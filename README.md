@@ -133,3 +133,5 @@ The `zwp_linux_explicit_synchronization_v1` Wayland protocol is currently not
 supported.
 
 Waypipe does not work between computers that use different byte orders.
+
+simple change
